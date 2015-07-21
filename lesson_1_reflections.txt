@@ -1,0 +1,6 @@
+When we see difference between 2 versions we will know what changes were done so the bug can be found
+by knowing history we know what changes occured from orignal and when.
+commits should be done after every logical change,, like bug fixing, feature updates, fixing several typos in a file .
+git allows to commit multiple files 
+git log allows to see commits log
+git diff allows to see changes done between 2 commits
